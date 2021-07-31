@@ -1,1 +1,1 @@
-# Linked-list-data-structure-and-algorithms-C-C-
+# Linked-list-data-structure-and-algorithms (C/C++)
